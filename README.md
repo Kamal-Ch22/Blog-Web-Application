@@ -20,7 +20,7 @@ A simple blog web application built with Node.js, Express.js, and EJS. The appli
 To run this project locally, you'll need Node.js and npm (Node Package Manager) installed. Follow the steps below to set up the project on your local machine:
 
 ```bash
-  git clone https://github.com/PranavNarain/Blog-Web-Application.git
+  git clone https://github.com/Kamal-Ch22/Blog-Web-Application.git
   cd Blog\ Web\ App/
   npm install 
 ```
